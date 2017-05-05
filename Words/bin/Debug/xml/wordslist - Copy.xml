@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Words>
+    <Word>fraudulent</Word>
+    <Definition>intended to deceive</Definition>
+  </Words>
+  <Words>
+    <Word>substantial</Word>
+    <Definition>fairly large</Definition>
+  </Words>
+  <Words>
+    <Word>maturity</Word>
+    <Definition>the period of time in your life after your physical growth has stopped and you are fully developed</Definition>
+  </Words>
+  <Words>
+    <Word>compensation</Word>
+    <Definition>something (such as money) given or received as payment or reparation (as for a service or loss or injury)</Definition>
+  </Words>
+  <Words>
+    <Word>reconciliation</Word>
+    <Definition>the reestablishing of cordial relations</Definition>
+  </Words>
+  <Words>
+    <Word>intimidating</Word>
+    <Definition>吓人的</Definition>
+  </Words>
+  <Words>
+    <Word>distraction</Word>
+    <Definition>注意力分散；消遣；心烦意乱</Definition>
+  </Words>
+  <Words>
+    <Word>domain</Word>
+    <Definition>领域；域名；产业；地产</Definition>
+  </Words>
+</ArrayOfWords>

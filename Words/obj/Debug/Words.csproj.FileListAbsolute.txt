@@ -1,0 +1,27 @@
+F:\Study\Community College\IS153\FinalProject\Words\Words\bin\Debug\Words.exe.config
+F:\Study\Community College\IS153\FinalProject\Words\Words\bin\Debug\Words.exe
+F:\Study\Community College\IS153\FinalProject\Words\Words\bin\Debug\Words.pdb
+F:\Study\Community College\IS153\FinalProject\Words\Words\bin\Debug\AppHelper.dll
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.csproj.ResolveComReference.cache
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.Form1.resources
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.FormAdd.resources
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.frmRecite.resources
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.Properties.Resources.resources
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.frmRecords.resources
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.csproj.GenerateResource.Cache
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.exe
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.pdb
+F:\Study\Community College\IS153\FinalProject\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+C:\Users\J\code\lc101\Words\Words\bin\Debug\Words.exe.config
+C:\Users\J\code\lc101\Words\Words\bin\Debug\Words.exe
+C:\Users\J\code\lc101\Words\Words\bin\Debug\Words.pdb
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.csproj.ResolveComReference.cache
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.Form1.resources
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.FormAdd.resources
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.frmRecite.resources
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.Properties.Resources.resources
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.frmRecords.resources
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.csproj.GenerateResource.Cache
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.exe
+C:\Users\J\code\lc101\Words\Words\obj\Debug\Words.pdb

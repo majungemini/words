@@ -1,0 +1,19 @@
+12/14/2016 16:04:46
+RightWords: 3 
+WrongWords: 7
+
+12/14/2016 16:10:29
+RightWords: 33
+WrongWords: 23
+
+12/15/2016 23:02:42
+RightWords: 33
+WrongWords: 23
+
+12/15/2016 23:13:33
+RightWords: 33
+WrongWords: 66
+
+12/15/2016 23:43:48
+RightWords: 33
+WrongWords: 66
